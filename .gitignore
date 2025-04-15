@@ -1,0 +1,32 @@
+# Diretórios e arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+
+# Arquivos de output dos testes
+output.xml
+log.html
+report.html
+output*.xml
+log*.html
+report*.html
+debug.log
+
+# Ambientes virtuais (se estiver usando)
+venv/
+.env/
+.venv/
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de configuração do sistema operacional
+Thumbs.db
+ehthumbs.db
